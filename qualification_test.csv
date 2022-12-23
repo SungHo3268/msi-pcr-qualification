@@ -1,0 +1,9 @@
+question_id,goal,can1,can2,noise1,noise2,noise3,Q1_ans,Q2_ans,Q1_explanation,Q2_explanation,isTest
+test-1,To clean your glasses,wipe them on the bottom of your shirt,wipe them on the mop,To make a glasses,To wet the mop,To clean the floor of your house,,,,,y
+test-2,cement,prevents  brain damage ,prevents  water  damage ,alcohol,milk,skull,,,,,y
+test-3,"To make a controlled environment around your child's sand pit,",place a moat around the edge.,put up a tent around the sand pit's exterior.,To build a sand castle,To go to the Sand Festival,To prevent a child playing with sand from catching a cold,,,,,y
+test-4,How to clean the AirPods?,"Rub it with a soft, dry, lint-free cloth","Rub it with a harsh, dry sandpaper",To smooth the wooden surface,Sending,Take a coffee,,,,,y
+test-5,cameras,are embedded in hearts  ,are embedded in phones  ,hand,valve,kidney,,,,,y
+test-6,How can I like a picture on Instagram?,Double tap on the picture.,pinch with two fingers on the picture.,How can I turn the default screen back on,How can I capture the photos,How can I enlarge a picture?,,,,,y
+test-7,old shirt,can be donated to homeless people,can be donated to dead people,jewel,coffee,book,,,,,y
+test-8,Remove swelling from acne.,Hold ice cube over calves for five minutes.,Hold ice cube over pimple for one minute.,Remove swelling from pimple,Reduce swelling from legs,Make iced latte,,,,,y
